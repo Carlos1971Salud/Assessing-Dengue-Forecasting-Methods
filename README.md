@@ -1,5 +1,8 @@
 # Assessing-Dengue-Forecasting-Methods
-codes for the paper *Assessing Dengue Forecasting Methods: A Comparative Study of Statistical Models and Machine Learning Techniques in Rio de Janeiro, Brazil* [pre-print version]( https://medrxiv.org/cgi/content/short/2024.06.12.24308827v1)
+codes for the paper *Assessing Dengue Forecasting Methods: A Comparative Study of Statistical Models and Machine Learning Techniques in Rio de Janeiro, Brazil* 
+
+
+You can find the pre-print version of the paper [here]( https://medrxiv.org/cgi/content/short/2024.06.12.24308827v1).
 
 
 There are 2 parts of the models: first is using the cases itself (no-cov); the other is including covariates (cov).
