@@ -28,3 +28,5 @@ The data is stored in `data_with_covarites.csv`, including time, cases, humidity
 The main function is `testing.R`, you can call `sarimax_prediction_result <- predict_sarimax(data, window_size)` to get the same result table of  real cases and predicting cases, the same as the no-cov.
 
 Then using the same function `print(combine_metrics(sarimax_prediction_result))` you can get the metrics of MAE, MAPE, and RMSE.
+
+### añadiendo un comentario
